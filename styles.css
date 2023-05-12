@@ -1,0 +1,158 @@
+body { 
+  font-family: 'Rage Italic', sans-serif; 
+  text-align: justify;
+  text-transform: capitalize;
+  margin:0px;
+  }
+
+  .G200{
+    color: #918C8C;
+    margin-top: 0px;
+  }
+
+  #G100{
+    color: #918C8C;
+    text-align: center;
+  }
+
+  #indexTitle{
+    margin-left: 20px;
+    padding-top: 15px;
+  }
+
+  #P100cutepotato{
+    color: #F7A5A7;
+  }
+  
+  #P200project{
+    color: #FFAAB4;
+  }
+
+  #B200text{
+    color: #231F20;
+  }
+
+  #P300closeup{
+    color: #F48E9D;
+  }
+
+  #B100cutepotato{
+    color: #BDE7FB;
+    padding-top: 10px;
+  }
+
+  #P3400aboutme{
+    color: #F7A8B3;
+  }
+
+  #white{
+    color: #FFFFFF;
+  }
+
+  #brown{
+    color: #C88F4C;
+  }
+
+
+  .firstImage{
+
+    background-image: url("Images/mainCover.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin:0px;
+    height: 100vh;
+    width: 100%;
+  }
+
+  .secondContainer{
+    height:100vh ;
+    width: 100vw;
+    }
+
+    .ThirdContainer{
+      height:100vh ;
+      width: 103vw;
+      }
+
+      .forthContainer{
+        height:103vh ;
+        width: 116vw;
+        }
+  
+
+   .project{
+    
+    background-color: #FEDBB2;
+    width: 1440px;
+    height: 879px;
+  }
+
+  .navthick{
+
+    background-color: #FFE5D7;
+    width: 100%;
+    height: 681px;
+  
+  }
+
+  .cutepotato{
+
+    background-color: #C6A884;
+    width: 100%; 
+    height: 45px;
+    font-family: Cambria, Georgia, serif;
+    font-size: 25px; font-style: normal;
+    text-align: center;
+  } 
+  
+  .navthin{
+
+    background-color: #FFE5D7;
+    width: 100%; 
+    height: 60px;
+  
+  }  
+
+  .koiebook{
+
+    background-color: #FEDBB2;
+    width: 100%; 
+    height: 4949px;
+  }  
+
+  .aboutme{
+
+    background-color: #FFE7CA;
+    width: 100%; 
+    height: 879px;
+  }  
+
+  .contactlight{
+
+    background-color: #FFE5D7;
+    width: 100%; 
+    height: 469px;
+    font-family: 'Freestyle Script',sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    padding-top: 10px;"
+  }  
+
+  .contactdark{
+
+    background-color: #FEDBB2;
+    width: 100%; 
+    height: 500px;
+    font-family: 'Freestyle Script',sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    padding-top: 10px;"
+  }  
+
+  #brochureposter{
+    font-family:"Bradley Hand ITC TT", "Handwriting-Dakota", sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    padding-top: 10px;
+  }
